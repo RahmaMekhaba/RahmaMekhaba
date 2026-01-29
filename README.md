@@ -21,10 +21,10 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmekhaba21-ui&show_icons=true&theme=radical&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmaMekhaba&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-mekhaba-934556397)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmekhaba21-ui)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahmaMekhaba)
